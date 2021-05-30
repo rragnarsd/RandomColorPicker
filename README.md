@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Random Color Picker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+https://user-images.githubusercontent.com/44742460/120118745-93d4b780-c183-11eb-8bc8-f89d25236580.mp4
 
 ## Available Scripts
 
